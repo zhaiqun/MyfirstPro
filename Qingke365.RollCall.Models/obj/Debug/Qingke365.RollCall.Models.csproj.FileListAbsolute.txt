@@ -1,0 +1,16 @@
+D:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\bin\Debug\Qingke365.RollCall.Models.dll
+D:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\bin\Debug\Qingke365.RollCall.Models.pdb
+D:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\obj\Debug\Qingke365.RollCall.Models.dll
+D:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\obj\Debug\Qingke365.RollCall.Models.pdb
+D:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\obj\Debug\Qingke365.RollCall.Models.csprojResolveAssemblyReference.cache
+E:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\bin\Debug\Qingke365.RollCall.Models.dll
+E:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\bin\Debug\Qingke365.RollCall.Models.pdb
+E:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\obj\Debug\Qingke365.RollCall.Models.dll
+E:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\obj\Debug\Qingke365.RollCall.Models.pdb
+G:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\bin\Debug\Qingke365.RollCall.Models.dll
+G:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\bin\Debug\Qingke365.RollCall.Models.pdb
+G:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\bin\Debug\Newtonsoft.Json.dll
+G:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\bin\Debug\Newtonsoft.Json.xml
+G:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\obj\Debug\Qingke365.RollCall.Models.csprojResolveAssemblyReference.cache
+G:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\obj\Debug\Qingke365.RollCall.Models.dll
+G:\Workspace\Qingke365.RollCall\Qingke365.RollCall.Models\obj\Debug\Qingke365.RollCall.Models.pdb
